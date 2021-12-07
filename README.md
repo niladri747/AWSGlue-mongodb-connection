@@ -1,1 +1,1 @@
-# AWSGlue-mongodb-connection
+# AWSGlue-mongodb-ATLAS-connection
